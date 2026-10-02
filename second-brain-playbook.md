@@ -169,6 +169,7 @@ Task lists and CLAUDE.md stay at the roots. Backup: `backup-vaults.ps1`, daily, 
 | `#i` | idea | `Ideas.md` |
 | `#q` | question | answered in ≤ 5 lines from the vault, wiki or docs, in today's `## Notes` |
 | `#r` | link to read | `Reading list.md` |
+| `#blog` | an idea worth writing up | the publishing project's note in `Personal/Projects/`, under `## Post ideas` |
 | `#h` | health numbers (`#h 92.4kg 8500 steps 2100 kcal`) or a health note | numbers → **Health log** (Phase 9a); other text → `Personal/Health/Log.md` |
 | `!` | urgent | leads tomorrow's Top 3 |
 | `due:fri` | due date | adds `📅 YYYY-MM-DD` |
